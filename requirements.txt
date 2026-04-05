@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-community
+yfinance
+pandas
+python-dotenv
+streamlit
